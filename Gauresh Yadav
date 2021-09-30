@@ -1,0 +1,4 @@
+C:\>python
+>>>print("hello world")
+hello world
+>>>quit()
